@@ -37,7 +37,7 @@ To explore these projects:
 
 1. **Clone the Repository:**
 ```bash
-git clone https://github.com/hsynkmk/ASP.NET-Projects.git
+git clone https://github.com/bathong-dev/ASP.NET-Projects
 ```
 
 2. **Open Projects:**
